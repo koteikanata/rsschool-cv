@@ -6,7 +6,7 @@ telegram @koteikanata
 
 I am looking for a job as a junior frontend developer.
 At the moment I have experience in developing single-page websites, solving algorithmic problems and other small projects, examples of which you can find on my github.
-Now I am actively studying js, ts, react.
+Now I am actively studying js, ts, react. I want to create useful and convenient web applications.
 
 ### Skills
 - js/ts
